@@ -365,8 +365,7 @@ cat > /home/vps/public_html/client.ovpn <<-END
 # OpenVPN Configuration by HostingTermurah.net
 # (Official Partner VPS-Murah.net)
 # Mod by 0123456
-# remod by Rey DC Luar Jr
-# For FFAST
+# remod by Rodelio Millares
 
 client
 dev tun
