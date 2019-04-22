@@ -1,2 +1,2 @@
 # premscript_rdcl
-premiumscript
+Debian 8 
